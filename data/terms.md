@@ -1,20 +1,20 @@
 # Introduction
 
-These terms and conditions outline the rules and regulations for the use of TikTokAssistant's Website.
+These terms and conditions outline the rules and regulations for the use of Rebotou's Website.
 
-By accessing this Website we assume you accept these terms and conditions in full. Do not continue to use TikTokAssistant's Website if you do not accept all of the terms and conditions stated on this page.
+By accessing this Website we assume you accept these terms and conditions in full. Do not continue to use Rebotou's Website if you do not accept all of the terms and conditions stated on this page.
 
 The following terminology applies to these Terms and Conditions, Privacy Statement and Disclaimer Notice and any or all Agreements: "Client", "You" and "Your" refers to you, the person accessing this Website and accepting the Company's Terms and Conditions. "NinetyH Studio", "The Company", "Ourselves", "We", "Our" and "Us", refers to our Company. "Party", "Parties", or "Us", refers to both the Client and ourselves, or either the Client or ourselves. All terms refer to the offer, acceptance and consideration of payment necessary to undertake the process of our assistance to the Client in the most appropriate manner, whether by formal meetings of a fixed duration, or any other means, for the express purpose of meeting the Client's needs in respect of provision of the Company's stated services/products, in accordance with and subject to, prevailing law of United States. Any use of the above terminology or other words in the singular, plural, capitalisation and/or he/she or they, are taken as interchangeable and therefore as referring to same.
 
 # Cookies
 
-We employ the use of cookies. By using TikTokAssistant's Website you consent to the use of cookies in accordance with TikTokAssistant's Privacy Policy.
+We employ the use of cookies. By using Rebotou's Website you consent to the use of cookies in accordance with Rebotou's Privacy Policy.
 
 Most of the modern day interactive Websites use cookies to enable us to retrieve user details for each visit. Cookies are used in some areas of our site to enable the functionality of this area and ease of use for those people visiting. Some of our affiliate / advertising partners may also use cookies.
 
 # License
 
-Unless otherwise stated, TikTokAssistant and/or it's licensors own the intellectual property rights for all material in this Website. All intellectual property rights are reserved. You may view and/or print pages from [https://ninetyh.me](https://ninetyh.me) for your own personal use subject to restrictions set in these terms and conditions.
+Unless otherwise stated, Rebotou and/or it's licensors own the intellectual property rights for all material in this Website. All intellectual property rights are reserved. You may view and/or print pages from [https://ninetyh.me](https://ninetyh.me) for your own personal use subject to restrictions set in these terms and conditions.
 
 You must not:
 
@@ -45,7 +45,7 @@ We may consider and approve in our sole discretion other link requests from the 
 6. accounting, law and consulting firms; and
 7. educational institutions and trade associations.
 
-We will approve link requests from these organizations if we determine that: (a) the link would not reflect unfavorably on us or our accredited businesses; (b) the organization does not have an unsatisfactory record with us; (c) the benefit to us from the visibility associated with the hyperlink outweighs the absence of TikTokAssistant; and (d) where the link is in the context of general resource information or is otherwise consistent with editorial content in a newsletter or similar product furthering the mission of the organization.
+We will approve link requests from these organizations if we determine that: (a) the link would not reflect unfavorably on us or our accredited businesses; (b) the organization does not have an unsatisfactory record with us; (c) the benefit to us from the visibility associated with the hyperlink outweighs the absence of Rebotou; and (d) where the link is in the context of general resource information or is otherwise consistent with editorial content in a newsletter or similar product furthering the mission of the organization.
 
 These organizations may link to our home page, to publications or to other Website information so long as the link: (a) is not in any way misleading; (b) does not falsely imply sponsorship, endorsement or approval of the linking party and it products or services; and (c) fits within the context of the linking party's site.
 
@@ -57,7 +57,7 @@ Approved organizations may hyperlink to our Website as follows:
 2. By use of the uniform resource locator (Web address) being linked to; or
 3. By use of any other description of our Website or material being linked to that makes sense within the context and format of content on the linking party's site.
 
-No use of TikTokAssistant's logo or other artwork will be allowed for linking absent a trademark license agreement.
+No use of Rebotou's logo or other artwork will be allowed for linking absent a trademark license agreement.
 
 # Reservation of Rights
 

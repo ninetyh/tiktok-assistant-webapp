@@ -1,6 +1,6 @@
 # Introduction
 
-This Privacy Policy describes how **TikTokAssistant** and its affiliates ("NinetyH Studio", "we", "our" or "us") collect, use, and share information in connection with your use of our websites, services, and applications (collectively, the "Services").
+This Privacy Policy describes how **Rebotou** and its affiliates ("NinetyH Studio", "we", "our" or "us") collect, use, and share information in connection with your use of our websites, services, and applications (collectively, the "Services").
 
 This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect on our website. This policy is not applicable to any information collected offline or via channels other than this website.
 
@@ -12,7 +12,7 @@ By using our website, you hereby consent to our Privacy Policy and agree to its 
 
 # Information We Collect
 
-When you are using our service, we need to collect and store your TikTok username and email. These information are necessary to make **TikTokAssistant** work properly. Other than that, we do not collect/store any other information about your TikTok account.
+When you are using our service, we need to collect and store your TikTok username and email. These information are necessary to make **Rebotou** work properly. Other than that, we do not collect/store any other information about your TikTok account.
 
 If you contact us directly, we may receive additional information about you such as your name, email address, phone number, the contents of the message and/or attachments you may send us, and any other information you may choose to provide.
 
@@ -29,11 +29,11 @@ Find and prevent fraud.
 
 # Log Files
 
-**TikTokAssistant** follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services' analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable.
+**Rebotou** follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services' analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable.
 
 # Cookies and Web Beacons
 
-Like any other website, **TikTokAssistant** uses 'cookies'. These cookies are used to store information including visitors' preferences, and the pages on the website that the visitor accessed or visited. The information is used to optimize the users' experience by customizing our web page content based on visitors' browser type and/or other information.
+Like any other website, **Rebotou** uses 'cookies'. These cookies are used to store information including visitors' preferences, and the pages on the website that the visitor accessed or visited. The information is used to optimize the users' experience by customizing our web page content based on visitors' browser type and/or other information.
 
 # Third-Party Privacy Policies
 
@@ -63,7 +63,7 @@ The security of your information is important to us, but remember that no method
 
 Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.
 
-**TikTokAssistant** does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.
+**Rebotou** does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.
 
 # Links to External Sites
 
