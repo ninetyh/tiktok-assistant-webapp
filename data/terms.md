@@ -49,7 +49,7 @@ We will approve link requests from these organizations if we determine that: (a)
 
 These organizations may link to our home page, to publications or to other Website information so long as the link: (a) is not in any way misleading; (b) does not falsely imply sponsorship, endorsement or approval of the linking party and it products or services; and (c) fits within the context of the linking party's site.
 
-If you are among the organizations listed in paragraph 2 above and are interested in linking to our Website, you must notify us by sending an e-mail to [yanbo.ai@gmail.com](mailto:yanbo.ai@gmail.com). Please include your name, your organization name, contact information (such as a phone number and/or e-mail address) as well as the URL of your site, a list of any URLs from which you intend to link to our Website, and a list of the URL(s) on our site to which you would like to link. Allow 2-3 weeks for a response.
+If you are among the organizations listed in paragraph 2 above and are interested in linking to our Website, you must notify us by sending an e-mail to [support@rebotou.com](mailto:support@rebotou.com). Please include your name, your organization name, contact information (such as a phone number and/or e-mail address) as well as the URL of your site, a list of any URLs from which you intend to link to our Website, and a list of the URL(s) on our site to which you would like to link. Allow 2-3 weeks for a response.
 
 Approved organizations may hyperlink to our Website as follows:
 
@@ -79,4 +79,4 @@ Our Website is provided on an "As is," "As available" basis, without representat
 
 # Contact Information
 
-If you have any queries regarding any of our terms, please [contact us](<(mailto:yanbo.ai@gmail.com)>).
+If you have any queries regarding any of our terms, please [contact us](<(mailto:support@rebotou.com)>).

@@ -4,7 +4,7 @@ This Privacy Policy describes how **Rebotou** and its affiliates ("NinetyH Studi
 
 This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect on our website. This policy is not applicable to any information collected offline or via channels other than this website.
 
-If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us through email at yanbo.ai@gmail.com
+If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us through email at support@rebotou.com
 
 # Consent
 
@@ -77,4 +77,4 @@ Although most changes are likely to be minor, NinetyH Studio may change this Pri
 
 # Contact Information
 
-If you have any questions about this Privacy Policy, please [contact us](mailto:yanbo.ai@gmail.com).
+If you have any questions about this Privacy Policy, please [contact us](mailto:support@rebotou.com).
