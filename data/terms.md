@@ -14,14 +14,14 @@ Most of the modern day interactive Websites use cookies to enable us to retrieve
 
 # License
 
-Unless otherwise stated, Rebotou and/or it's licensors own the intellectual property rights for all material in this Website. All intellectual property rights are reserved. You may view and/or print pages from [https://ninetyh.me](https://ninetyh.me) for your own personal use subject to restrictions set in these terms and conditions.
+Unless otherwise stated, Rebotou and/or it's licensors own the intellectual property rights for all material in this Website. All intellectual property rights are reserved. You may view and/or print pages from [https://www.rebotou.com](https://www.rebotou.com) for your own personal use subject to restrictions set in these terms and conditions.
 
 You must not:
 
-1. Republish material from [https://ninetyh.me](https://ninetyh.me)
-2. Sell, rent or sub-license material from [https://ninetyh.me](https://ninetyh.me)
-3. Reproduce, duplicate or copy material from [https://ninetyh.me](https://ninetyh.me)
-4. Redistribute content from [https://ninetyh.me](https://ninetyh.me) (unless content is specifically made for redistribution)
+1. Republish material from [https://www.rebotou.com](https://www.rebotou.com)
+2. Sell, rent or sub-license material from [https://www.rebotou.com](https://www.rebotou.com)
+3. Reproduce, duplicate or copy material from [https://www.rebotou.com](https://www.rebotou.com)
+4. Redistribute content from [https://www.rebotou.com](https://www.rebotou.com) (unless content is specifically made for redistribution)
 
 # Hyperlinking to Our Content
 
