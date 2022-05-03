@@ -40,7 +40,7 @@ Like any other website, **Rebotou** uses 'cookies'. These cookies are used to st
 This Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of them for more detailed information. It may include their practices and instructions about how to opt-out of certain options. You may find a complete list of our partners/vendors and their Privacy Policies links here:
 
 1. [Google](https://www.google.com/analytics/terms/)
-2. [Paddle](https://www.paddle.com/legal/privacy)
+2. [Stripe](https://stripe.com/privacy)
 
 # GDPR Privacy Policy
 
