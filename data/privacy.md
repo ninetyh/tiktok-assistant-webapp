@@ -41,6 +41,7 @@ This Privacy Policy does not apply to other advertisers or websites. Thus, we ar
 
 1. [Google](https://www.google.com/analytics/terms/)
 2. [Stripe](https://stripe.com/privacy)
+3. [Mixpanel](https://mixpanel.com/legal/privacy-policy/)
 
 # GDPR Privacy Policy
 
