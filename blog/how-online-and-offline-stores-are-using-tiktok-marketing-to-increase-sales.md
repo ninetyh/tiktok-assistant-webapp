@@ -42,4 +42,4 @@ However, there are a few things to keep in mind to get more exposure through aut
 1. First, we need to use hashtag or search keywords to filter out groups with high relevance.
 2. Do not mechanically send a large number of comments repeatedly, which will be banned by TikTok.
 
-To solve these two problems effectively, we developed [Rebotou](https://www.rebotou.com), which **does not require TikTok password** and provides a multi-collaboration mode that can be used with multiple accounts for best results.
+To solve these two problems effectively, we developed [Rebotou](https://www.rebotou.com), which **does not require TikTok's password** and provides a multi-collaboration mode that can be used with multiple accounts for best results.
