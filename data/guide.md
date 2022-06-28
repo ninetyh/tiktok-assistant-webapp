@@ -15,13 +15,10 @@ Never send mass comments to spam other TikTok users! Don't auto-comment too fast
 
 # 2. Install Extension
 
-If you didn't install it yet and would like to, just head over to this [Chrome Web Store](https://chrome.google.com/webstore/detail/rebotou-growth-hacking-bo/cfgkjnjmlckppgajnicogfdnhhndpikk), hit the **Add to Chrome** (Chrome is the name of your browser, if you use another browser it may be another name, e.g. Brave, Edge) button and you are all set.
+If you didn't install it yet and would like to, just head over to this [Chrome Web Store](https://chrome.google.com/webstore/detail/rebotou-growth-hacking-bo/cfgkjnjmlckppgajnicogfdnhhndpikk), hit the **Add to Chrome** button and you are all set (Chrome is the name of your browser, if you use another browser it may be another name, e.g. Brave, Edge).
 
 # 3. Pin Extension
 
 To make it easier to use Rebotou, we recommend you pin it to your chrome toolbar (see the following screenshot).
 
-<div class="guide-image">
-<!-- <img src="/images/guide/pin-extension.jpg" alt="Pin Extension"> -->
-</div>
-
+<div class="guide-image guide-pin-extension"></div>
