@@ -22,3 +22,17 @@ If you didn't install it yet and would like to, just head over to this [Chrome W
 To make it easier to use Rebotou, we recommend you pin it to your chrome toolbar (see the following screenshot).
 
 <div class="guide-image guide-pin-extension"></div>
+
+# 4. Login to TikTok
+
+Run your browser and visit the [TikTok](https://www.tiktok.com) website to make sure you are logged in.
+
+# 5. Open Rebotou App
+
+Click the Rebotou icon in browser toolbar (see the following screenshot).
+
+<div class="guide-image guide-open-rebotou"></div>
+
+# 6. Enjoy Your Growth
+
+Congratulations on successfully running Rebotou, next you can create tasks to start your growth path.
